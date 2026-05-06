@@ -34,7 +34,8 @@ Note: Due to external dependencies, please follow these steps exactly to avoid i
     Importing
 
         Once the dependencies above are installed, drag and drop My project.unitypackage into your Unity project to complete the setup.
-
+    Disclaimer 
+    The author assumes no responsibility or liability for any troubles, losses, or damages arising from the use of this project, including the execution of the code or the publication of generated content. Users are solely responsible for ensuring that their prompts and the use of generated assets do not infringe upon any existing copyrights or intellectual property rights. Use at your own risk.
 
 
 
@@ -74,4 +75,5 @@ Note: Due to external dependencies, please follow these steps exactly to avoid i
 
         上記の依存関係を導入した空のUnityプロジェクトに、ダウンロードした My project.unitypackage をドラッグ＆ドロップしてインポートしてください。
 
-    Disclaimer (免責事項) 本プロジェクトの利用（コードの実行、生成物の公開等）により生じたトラブルや損害について、作者は一切の責任を負いません。既存の著作権を侵害しないよう、プロンプトの入力や生成物の利用には十分ご注意ください。利用はすべて自己責任（Use at your own risk）でお願いいたします。
+    Disclaimer (免責事項) 
+    本プロジェクトの利用（コードの実行、生成物の公開等）により生じたトラブルや損害について、作者は一切の責任を負いません。既存の著作権を侵害しないよう、プロンプトの入力や生成物の利用には十分ご注意ください。利用はすべて自己責任（Use at your own risk）でお願いいたします。
