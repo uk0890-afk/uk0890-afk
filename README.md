@@ -37,7 +37,7 @@ Note: Due to external dependencies, please follow these steps exactly to avoid i
     Disclaimer 
     The author assumes no responsibility or liability for any troubles, losses, or damages arising from the use of this project, including the execution of the code or the publication of generated content. Users are solely responsible for ensuring that their prompts and the use of generated assets do not infringe upon any existing copyrights or intellectual property rights. Use at your own risk.
 
-
+video link:https://x.com/kogami0601?s=11&t=p_LIcT2NcpYUJ1Ch3HU7RQ
 
 このプロジェクトは、一般的なスマートフォン向けゲームの基本システムを参考に制作したUnityプロジェクトです。
  主な機能
@@ -77,3 +77,6 @@ Note: Due to external dependencies, please follow these steps exactly to avoid i
 
     Disclaimer (免責事項) 
     本プロジェクトの利用（コードの実行、生成物の公開等）により生じたトラブルや損害について、作者は一切の責任を負いません。既存の著作権を侵害しないよう、プロンプトの入力や生成物の利用には十分ご注意ください。利用はすべて自己責任（Use at your own risk）でお願いいたします。
+
+動画リンク:https://x.com/kogami0601?s=11&t=p_LIcT2NcpYUJ1Ch3HU7RQ
+    
